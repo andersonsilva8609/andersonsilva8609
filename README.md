@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Anderson Silva
+# Olá ! 👋 Seja bem vindo ao meu perfil
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkein&logoColor=white&link=https://www.linkedin.com/in/anderson-silva-418b2762/)](https://www.linkedin.com/in/anderson-silva-418b2762/)
 
-### Olá ! 👋 Seja bem vindo ao meu perfil
-
-- 🌱 Atualmente estou aprendendo muito no curso Certified Tech Developer da ### Digital House.
+- 🌱 Atualmente estou aprendendo muito no curso Certified Tech Developer da Digital House.
 - 📫 Como chegar até mim: 
