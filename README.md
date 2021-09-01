@@ -1,8 +1,4 @@
 <!--
-**andersonsilva8609/andersonsilva8609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,6 +14,6 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkein&logoColor=white&link=https://www.linkedin.com/in/anderson-silva-418b2762/)](https://www.linkedin.com/in/anderson-silva-418b2762/)
 
-- 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na [Digital House](https://www.digitalhouse.com/br), com objetivo de capacitação em especializar **Back-End**.
+- 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na **[Digital House]**(https://www.digitalhouse.com/br), com objetivo de capacitação em especializar **Back-End**.
 - 😄 Gosto muito de aprender coisas novas
 - 🏝️ Sou fanzaço de praia e uma boa cerveja 🍺
