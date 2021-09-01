@@ -14,6 +14,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkein&logoColor=white&link=https://www.linkedin.com/in/anderson-silva-418b2762/)](https://www.linkedin.com/in/anderson-silva-418b2762/)
 
-- 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na **[Digital House]**(https://www.digitalhouse.com/br), com objetivo de capacitação em especializar **Back-End**.
+- 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na [**Digital House**](https://www.digitalhouse.com/br), com objetivo de capacitação em especializar **Back-End**.
 - 😄 Gosto muito de aprender coisas novas
 - 🏝️ Sou fanzaço de praia e uma boa cerveja 🍺
