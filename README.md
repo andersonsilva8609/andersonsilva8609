@@ -17,3 +17,9 @@
 - 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na [**Digital House**](https://www.digitalhouse.com/br), com objetivo de se capacitar especialista **Back-End**.
 - 😄 Gosto muito de aprender coisas novas
 - 🏝️ Sou fanzaço de praia e uma boa cerveja 🍺
+
+Sou um desenvolvedor back-end com paixão por codificação e aprendizado de novas tecnologias.
+
+Abilidades: JavaScript, NodeJS, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL e Oracle.
+
+Me encontre:
