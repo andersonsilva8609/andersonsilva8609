@@ -20,6 +20,6 @@
 
 Sou desenvolvedor back-end, apaixonao por codificar e aprender novas tecnologias.
 
-Abilidades: **Java, PHP, JavaScript, NodeJS, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL e Oracle**.
+Habilidades: **Java, PHP, JavaScript, NodeJS, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL e Oracle**.
 
 Me encontre:
