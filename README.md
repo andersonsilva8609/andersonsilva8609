@@ -18,7 +18,7 @@
 - 😄 Gosto muito de aprender coisas novas
 - 🏝️ Sou fanzaço de praia e apreciar uma boa cerveja 🍺
 
-Sou desenvolvedor back-end, apaixonao por codificar e aprender novas tecnologias.
+Sou desenvolvedor back-end, apaixonado por codificar e aprender novas tecnologias.
 
 Habilidades: **Java, PHP, JavaScript, NodeJS, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL e Oracle**.
 
