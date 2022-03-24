@@ -14,11 +14,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkein&logoColor=white&link=https://www.linkedin.com/in/anderson-silva-418b2762/)](https://www.linkedin.com/in/anderson-silva-418b2762/)
 
-- 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na [**Digital House**](https://www.digitalhouse.com/br), com objetivo de se capacitar especialista **Back-End**.
+- 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na [**Digital House**](https://www.digitalhouse.com/br), com foco no **Back-End**.
 - 😄 Gosto muito de aprender coisas novas
-- 🏝️ Sou fanzaço de praia e uma boa cerveja 🍺
+- 🏝️ Sou fanzaço de praia e apreciar uma boa cerveja 🍺
 
-Sou um desenvolvedor back-end com paixão por codificação e aprendizado de novas tecnologias.
+Sou desenvolvedor back-end, apaixonao por codificar e aprender novas tecnologias.
 
 Abilidades: Java, PHP, JavaScript, NodeJS, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL e Oracle.
 
