@@ -16,7 +16,7 @@
 
 - 📚 Atualmente estou fazendo o curso **Certified Tech Developer** na [**Digital House**](https://www.digitalhouse.com/br), com foco no **Back-End**.
 - 😄 Gosto muito de aprender coisas novas
-- 🏝️ Sou fanzaço de praia e apreciar uma boa cerveja 🍺
+- 🏝️ Fanzaço de praia e apreciar uma boa cerveja 🍺
 
 Sou desenvolvedor back-end, apaixonado por codificar e aprender novas tecnologias.
 
