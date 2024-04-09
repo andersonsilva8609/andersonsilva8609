@@ -14,7 +14,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkein&logoColor=white&link=https://www.linkedin.com/in/anderson-silva-418b2762/)](https://www.linkedin.com/in/anderson-silva-418b2762/)
 
-- 📚 Atualmente estou cursando a Pós Tech em **Arquitetura de Desenvolvimento Java** na [**FIAPE**](https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/), com foco no **Back-End**.
+- 📚 Atualmente estou cursando a Pós Tech em **Arquitetura de Desenvolvimento Java** na [**FIAP**](https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/), com foco no **Back-End**.
 - 😄 Gosto muito de novos desafios
 - 🏝️ Fanzaço de praia, e apreciar uma boa cerveja 🍺
 
