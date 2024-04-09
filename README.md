@@ -22,4 +22,3 @@ Focado no desenvolvedor back-end, apaixonado por aprender novas tecnologias.
 
 Habilidades: **Java, PHP, JavaScript, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL e Oracle**.
 
-Me encontre:
