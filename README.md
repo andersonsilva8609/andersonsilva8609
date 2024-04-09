@@ -14,11 +14,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flatsquare&logo=Linkein&logoColor=white&link=https://www.linkedin.com/in/anderson-silva-418b2762/)](https://www.linkedin.com/in/anderson-silva-418b2762/)
 
-- 📚 Atualmente estou fazendo o curso **Arquitetura de Desenvolvimento Java** na [**FIAPE**](https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/), com foco no **Back-End**.
-- 😄 Gosto muito de aprender coisas novas
-- 🏝️ Fanzaço de praia e apreciar uma boa cerveja 🍺
+- 📚 Atualmente estou cursando a Pós Tech em **Arquitetura de Desenvolvimento Java** na [**FIAPE**](https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/), com foco no **Back-End**.
+- 😄 Gosto muito de novos desafios
+- 🏝️ Fanzaço de praia, e apreciar uma boa cerveja 🍺
 
-Sou desenvolvedor back-end, apaixonado por codificar e aprender novas tecnologias.
+Focado no desenvolvedor back-end, apaixonado por aprender novas tecnologias.
 
 Habilidades: **Java, PHP, JavaScript, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL e Oracle**.
 
