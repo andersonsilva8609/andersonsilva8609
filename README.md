@@ -20,5 +20,5 @@
 
 Focado no desenvolvedor back-end, apaixonado por aprender novas tecnologias.
 
-Habilidades: **Java, Docker, JavaScript, CSS, HTML, Bootstrap, React, MySQL, PostgreSQL, Oracle e MongoDB**.
+Habilidades: **Java, Docker, React, MySQL, PostgreSQL, Oracle e AWS**.
 
