@@ -18,15 +18,16 @@ export default function Home() {
     <div className="flex flex-col min-h-screen bg-black text-white">
       <header className="sticky top-0 z-50 w-full border-b border-white/10 bg-black">
         <div className="container flex h-16 items-center justify-between">
-          <Link href="/" className="flex items-center space-x-2">
-            <Image
-              src="/images/logo-20original-20sem-20n-c3-bamero.png"
-              alt="Funilaria Vandão 2"
-              width={180}
-              height={80}
-              className="h-12 w-auto"
-            />
-          </Link>
+        <Link href="/" className="flex items-center space-x-2">
+              <Image
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/funi-0H9cKrSF2FihSYD6X8t4cFNL5LEdRg.png"
+                alt="Funilaria VandÃ£o 2"
+                width={300}
+                height={300}
+                className="w-auto h-auto mb-8"
+                priority
+              />
+            </Link>
           <nav className="hidden md:flex gap-6">
             <a
               href="#servicos"
@@ -72,16 +73,15 @@ export default function Home() {
         {/* Hero Section */}
         <section className="relative bg-black">
           <div className="container flex flex-col items-center justify-center space-y-4 py-24 text-center">
-            <Link href="/" className="flex items-center space-x-2">
-              <Image
-                src="/images/funi.png"
-                alt="Funilaria Vandão 2"
-                width={300}
-                height={300}
-                className="w-auto h-auto mb-8"
-                priority
-              />
-            </Link>
+           <Link href="/" className="flex items-center space-x-2">
+                <Image
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Logo%20Original%20sem%20n%C3%BAmero-7sLmXz0UStPkde2aWN5Y6vtc14ZmSE.png"
+                  alt="Funilaria VandÃ£o"
+                  width={180}
+                  height={80}
+                  className="h-12 w-auto"
+                />
+              </Link>  
             <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl text-white">
               Qualidade e Excelência em Funilaria
             </h1>
