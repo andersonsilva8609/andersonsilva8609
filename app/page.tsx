@@ -19,8 +19,8 @@ export default function Home() {
       <header className="sticky top-0 z-50 w-full border-b border-white/10 bg-black">
         <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center space-x-2">
-              <Image
-              src="/images/logo-20original-20sem-20n-c3-bamero.png"
+           <Image
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Logo%20Original%20sem%20n%C3%BAmero-7sLmXz0UStPkde2aWN5Y6vtc14ZmSE.png"
               alt="Funilaria Vandão 2"
               width={180}
               height={80}
@@ -73,8 +73,8 @@ export default function Home() {
         <section className="relative bg-black">
           <div className="container flex flex-col items-center justify-center space-y-4 py-24 text-center">
             <Link href="/" className="flex items-center space-x-2">
-              <Image
-                src="/images/funi.png"
+               <Image
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/funi-0H9cKrSF2FihSYD6X8t4cFNL5LEdRg.png"
                 alt="Funilaria Vandão 2"
                 width={300}
                 height={300}
@@ -286,8 +286,8 @@ export default function Home() {
           <div className="grid gap-8 md:grid-cols-2">
             <div>
               <Link href="/" className="flex items-center space-x-2">
-                 <Image
-                  src="/images/logo-20original-20sem-20n-c3-bamero.png"
+                <Image
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Logo%20Original%20sem%20n%C3%BAmero-7sLmXz0UStPkde2aWN5Y6vtc14ZmSE.png"
                   alt="Funilaria Vandão"
                   width={180}
                   height={80}
