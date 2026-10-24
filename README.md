@@ -18,7 +18,7 @@
 - 😄 Gosto muito de novos desafios
 - 🏝️ Fanzaço de praia, e apreciar uma boa cerveja 🍺
 
-Focado no desenvolvedor back-end, apaixonado por aprender novas tecnologias.
+Focado em desenvolvimento back-end, estou estudando inglês e engenharia de iA. Busco sempre aprender ferramentas novas tecnologias.
 
 Habilidades: **Java, Docker, React, MySQL, PostgreSQL, Oracle e AWS**.
 
